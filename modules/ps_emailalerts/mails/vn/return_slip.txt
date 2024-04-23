@@ -1,0 +1,31 @@
+ 
+
+{shop_url}
+
+Xin chào,
+
+Bạn đã nhận được yêu cầu trở lại mới cho {shop_name}.
+
+Return Details
+
+Đơn hàng: {order_name} Khởi tạo ngày {date}
+
+Khách hàng: {firstname} {lastname}, ({email})
+
+Tham chiếu	Sản phẩm	Số lượng   {items}
+
+Địa chỉ giao hàng
+
+{delivery_block_html}
+
+Địa chỉ thanh toán
+
+{invoice_block_html}
+
+Tin nhắn của khách hàng:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

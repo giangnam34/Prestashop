@@ -1,0 +1,11 @@
+ 
+
+{shop_url}
+
+Xin chào,
+
+Cám ơn bạn đã đăng kí nhận tin từ chúng tôi.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Xin chào,
+
+Message from customer
+
+Bạn đã nhận được một tin nhắn mới liên quan đến đơn đặt hàng {order_name}.
+
+Khách hàng: {firstname} {lastname} ({email})
+
+Tin nhắn của khách hàng:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

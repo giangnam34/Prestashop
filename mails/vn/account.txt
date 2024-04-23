@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Cảm ơn bạn đã đăng kí tài khoản tại {shop_name}.
+
+Your login details on {shop_name}
+
+Thông tin đăng nhập của bạn:
+
+Email address: {email}
+
+Mẹo bảo mật:
+
+1. Vui lòng lữu trữ thông tin tài khoản cẩn thận.
+
+2. Đừng bao giờ nói cho người khác biết mật khẩu của bạn.
+
+3. Thay đổi mật khẩu thường xuyên.
+
+4. Nếu phát hiện tài khoản của bạn đã bị đánh cắp, vui lòng liên hệ với chúng tôi ngay lập tức.
+
+You can now place orders on our store: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

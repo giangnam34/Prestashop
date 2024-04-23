@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Xin chào,
+
+Your stock cover is now less than the specified minimum of: {warning_coverage}
+
+Bìa hiện tại kho hàng: {current_coverage}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

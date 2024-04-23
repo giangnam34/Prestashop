@@ -1,0 +1,19 @@
+<?php //PrestaShopBundle%255CController%255CAdmin%255CImprove%255CModuleController%2523configureModuleAction
+
+return [PHP_INT_MAX, static function () { return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+    $o = [
+        clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['PrestaShopBundle\\Security\\Annotation\\AdminSecurity'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('PrestaShopBundle\\Security\\Annotation\\AdminSecurity')),
+    ],
+    null,
+    [
+        'Sensio\\Bundle\\FrameworkExtraBundle\\Configuration\\Security' => [
+            'expression' => [
+                'is_granted(\'read\', \'ADMINMODULESSF_\') || is_granted(\'create\', \'ADMINMODULESSF_\') || is_granted(\'update\', \'ADMINMODULESSF_\') || is_granted(\'delete\', \'ADMINMODULESSF_\')',
+            ],
+        ],
+    ],
+    [
+        $o[0],
+    ],
+    []
+); }];

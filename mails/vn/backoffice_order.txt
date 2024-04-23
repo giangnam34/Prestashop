@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Một đơn hàng vừa được tạo với tên bạn.
+
+Please go on {order_link} to complete the payment.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

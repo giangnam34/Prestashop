@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Chúc mừng!
+
+A new order was placed on {shop_name} by the following customer: {firstname} {lastname} ({email})
+
+Chi tiết đơn hàng
+
+Đơn hàng: {order_name} Khởi tạo ngày {date}
+
+Phương thức thanh toán: {payment}
+
+Tham chiếu	Sản phẩm	Đơn giá	Số lượng	Tổng giá   {items}
+Sản phẩm	{total_products}
+Giảm giá	{total_discounts}
+Gói quà	{total_wrapping}
+Vận chuyển	{total_shipping}
+Including total tax	{total_tax_paid}
+total paid	{total_paid}
+
+Nhà vận chuyển
+
+Công ty vận chuyển {carrier}
+
+Phương thức thanh toán: {payment}
+
+Địa chỉ giao hàng
+
+{delivery_block_html}
+
+Địa chỉ thanh toán
+
+{invoice_block_html}
+
+Tin nhắn của khách hàng:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

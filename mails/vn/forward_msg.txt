@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Customer Service - Discussion Forwarded
+
+{employee} muốn chuyển tiếp cuộc thảo luận này tới bạn.
+
+Lịch sử thảo luận: {messages}
+
+{employee} đã thêm {comment}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

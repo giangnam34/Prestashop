@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Order return #{id_order_return} - Update
+
+Chúng tôi đã cập nhật các tiến bộ trên đường trở về của bạn #{id_order_return}, trạng thái mới là: "{state_order_return}".
+
+Follow your order and download your invoice on our store, go to the [Lịch sử và chi tiết đơn hàng]({history_url}) section of your customer account.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

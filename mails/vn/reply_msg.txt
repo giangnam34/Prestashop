@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+{reply}
+
+Xin đừng trả lời trực tiếp tới email này, chúng tôi sẽ không nhận được nó. In order to reply, click on the following link: {link}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

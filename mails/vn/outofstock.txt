@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Cảm ơn bạn đã đặt hàng ({order_name}) tại {shop_name}.
+
+Order ID {order_name} - Replenishment required
+
+Unfortunately, one or more items are currently out of stock and this may cause a slight delay for delivery. Please accept our apologies for this inconvenience and be sure we are doing our best to correct the situation.
+
+Follow your order and download your invoice on our store, go to the [Lịch sử và chi tiết đơn hàng]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Theo dõi khách]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Tin nhắn từ một khách hàng của {shop_name}
+
+Customer Email Address: {email}
+
+Order ID #:  {order_name}
+
+Tệp đính kèm: {attached_file}
+
+Tin nhắn của khách hàng:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

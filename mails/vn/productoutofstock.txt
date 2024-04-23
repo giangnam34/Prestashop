@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Gửi {firstname} {lastname},
+
+Sản phẩm {product} sắp hết hàng.
+
+There are now less than {last_qty} items in stock.
+
+Số lượng trong kho: {qty}
+
+Replenish your inventory, go to the Catalog > Stocks section of your back office to manage your stock.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)
